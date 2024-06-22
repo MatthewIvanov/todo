@@ -12,16 +12,20 @@ todo app- это простое и удобное приложение для у
 ## Скриншоты
 
 ### Главный экран
-![Главный экран](screenshots/main_screen.png)
+![Главный экран](assets/image/main.png)
 
 ### Создание новой задачи
-![Создание новой задачи](screenshots/create_task.png)
+![Создание новой задачи](assets/task/main.png)
 
 ### Редактирование задачи
-![Редактирование задачи](screenshots/edit_task.png)
+![Редактирование задачи](assets/done/main.png)
 
 ### Задача выполнена
-![Задача выполнена](screenshots/task_completed.png)
+![Задача выполнена](assets/delete/main.png)
+
+
+Также добавлена иконка приложения:
+(assets/icon/main.png)
 
 ## Установка
 
@@ -40,3 +44,4 @@ todo app- это простое и удобное приложение для у
 4. Запустите приложение:
     ```sh
     npm start
+

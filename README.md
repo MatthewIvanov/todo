@@ -15,17 +15,17 @@ todo app- это простое и удобное приложение для у
 ![Главный экран](assets/image/main.png)
 
 ### Создание новой задачи
-![Создание новой задачи](assets/task/main.png)
+![Создание новой задачи](assets/image/task.png)
 
 ### Редактирование задачи
-![Редактирование задачи](assets/done/main.png)
+![Редактирование задачи](assets/image/done.png)
 
 ### Задача выполнена
-![Задача выполнена](assets/delete/main.png)
+![Задача выполнена](assets/image/delete.png)
 
 
 Также добавлена иконка приложения:
-(assets/icon/main.png)
+(assets/image/icon.png)
 
 ## Установка
 

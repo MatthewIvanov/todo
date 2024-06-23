@@ -24,7 +24,7 @@ todo app- это простое и удобное приложение для у
 ![Удаление задачи](assets/image/delete.png)
 
 
-![Также добавлена иконка приложения](assets/image/icon.png {width=40px height=400px})
+<img src="assets/image/icon.png" alt="Также добавлена иконка приложения" width="50" height="50">
 
 ## Установка
 
